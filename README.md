@@ -11,7 +11,7 @@ Since finishing the course I have been studying Javascript & React.
  🎞️ Film Listing App, solo project
  https://github.com/gmurphy10/Film-Listing-App
  
- 🕵️ Paralax Effect Test, solo project
+ 🕵️ Parallax Effect Test, solo project
  https://github.com/gmurphy10/Parallax-Website-Test
  
  🍕 Dished!, team of 4
