@@ -7,7 +7,7 @@ Front-End Developer
 \> Graduated from Le Wagon 2021 > Owner @ t2 Designs \[Freelance Design & Webflow Development\]
 
 * 🌍  I'm based in London
-* 🖥️  See my portfolio at [t2](http://https://www.t2designs.co.uk/)
+* 🖥️  See my portfolio at [t2](https://https://www.t2designs.co.uk/)
 * ✉️  You can contact me at [hello@t2designs.co.uk](mailto:hello@t2designs.co.uk)
 * 🚀  I'm currently working on [SuperHi's Advanced JS Course](http://https://www.superhi.com/courses/advanced-css-and-javascript)
 * 🧠  I'm learning Javascript & React
